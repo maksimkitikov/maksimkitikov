@@ -6,7 +6,7 @@ HSW Hackathon Solo Winner
 [github.com/maksimkitikov](https://github.com/maksimkitikov) · [quantfin.dev](https://quantfin.dev) · [linkedin.com/in/maksim-kitikov](https://linkedin.com/in/maksim-kitikov) · mk859@exeter.ac.uk
 
 
-━━ PRODUCTION WORK @ UPSIDE ANALYTICS ━━━━━━━━━━━━━━━━━━━━━━━━━
+ PRODUCTION WORK @ UPSIDE ANALYTICS 
 
 ML price forecasting system
   Scope:  400+ US metro areas · 30+ data sources · 100,000+ records
@@ -37,7 +37,7 @@ Internal IT automation - AI-powered Telegram bot
   Result: work hours logging · expense flows · receipt uploads
           admin panel · automated reminders
 
-━━ FOUNDED & RUNNING IN PRODUCTION ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ FOUNDED & RUNNING IN PRODUCTION 
 
 [quantfin.dev](https://quantfin.dev) - AI-native market analytics platform (live)
   Stack:  Python · TypeScript · CAPM · GARCH · AR/CAR · OpenAI API
@@ -54,7 +54,7 @@ WorldQuant BRAIN × QuantFin Society - official institutional collaboration
                    Quant Finance Modelling Competition
                    pathways into professional quantitative finance research
 
-━━ COMPETITIONS ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ COMPETITIONS 
 
 Hack South West - AI agent payment system · Feb 2026
   Checkout.com prize · built with Anthropic API
@@ -68,7 +68,7 @@ Prize place — South West Cyber Security Hackathon · Nov 2025
                            forensics · threat modelling
   Tools: Python · JavaScript · Bash · SQL · Docker · Linux · Wireshark · Burp Suite
 
-━━ PROGRAMMES ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ PROGRAMMES 
 
 Stage 3 finalist - CFA Institute AI Investment Challenge (UK-wide) · Apr 2026
   Capital Group HQ · London
@@ -81,7 +81,7 @@ J.P. Morgan Global Markets Spring Insight Programme · London · Apr 2025
 
 McKinsey.org Forward Programme · Dec 2025
 
-━━ STACK ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ STACK 
 
 Languages      Python · Go · TypeScript · SQL · PySpark · Bash · C++
 Infrastructure Microsoft Fabric · Delta Lake · AWS S3 · AWS Transcribe · Docker
@@ -90,11 +90,9 @@ ML / AI        ElasticNet · XGBoost · GARCH · CAPM · RL (PPO/SAC · HMM)
                Anthropic API · OpenAI API
 Security       Burp Suite · Wireshark · CTF · Threat Modelling
 
-━━ AVAILABILITY ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ AVAILABILITY 
 
-Open to paid Summer 2026 internships and contracts
-London preferred · remote open
-Available full-time from June 2026 (university exams end May)
+Open to paid Summer 2026 internships in the UK
 UK Student visa · no sponsorship required
 
 
