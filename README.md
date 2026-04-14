@@ -1,6 +1,9 @@
 Data & ML Engineer @ Upside Analytics (New York - remote);
+
 Founder & President @ QuantFin Society (500+ members · [quantfin.dev](https://quantfin.dev));
+
 BSc Finance & Data Science @ University of Exeter;
+
 HSW Hackathon Solo Winner
 
 [github.com/maksimkitikov](https://github.com/maksimkitikov) · [quantfin.dev](https://quantfin.dev) · [linkedin.com/in/maksim-kitikov](https://linkedin.com/in/maksim-kitikov) · mk859@exeter.ac.uk
