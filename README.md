@@ -6,10 +6,13 @@ BSc Finance & Data Science @ University of Exeter;
 
 HSW Hackathon Solo Winner
 
+
 [github.com/maksimkitikov](https://github.com/maksimkitikov) · [quantfin.dev](https://quantfin.dev) · [linkedin.com/in/maksim-kitikov](https://linkedin.com/in/maksim-kitikov) · mk859@exeter.ac.uk
 
 
+
  PRODUCTION WORK @ UPSIDE ANALYTICS 
+
 
 ML price forecasting system
   Scope:  400+ US metro areas · 30+ data sources · 100,000+ records
@@ -40,7 +43,9 @@ Internal IT automation - AI-powered Telegram bot
   Result: work hours logging · expense flows · receipt uploads
           admin panel · automated reminders
 
+
  FOUNDED & RUNNING IN PRODUCTION 
+
 
 [quantfin.dev](https://quantfin.dev) - AI-native market analytics platform (live)
   Stack:  Python · TypeScript · CAPM · GARCH · AR/CAR · OpenAI API
@@ -57,7 +62,9 @@ WorldQuant BRAIN × QuantFin Society - official institutional collaboration
                    Quant Finance Modelling Competition
                    pathways into professional quantitative finance research
 
+
  COMPETITIONS 
+
 
 Hack South West - AI agent payment system · Feb 2026
   Checkout.com prize · built with Anthropic API
@@ -71,7 +78,9 @@ Prize place — South West Cyber Security Hackathon · Nov 2025
                            forensics · threat modelling
   Tools: Python · JavaScript · Bash · SQL · Docker · Linux · Wireshark · Burp Suite
 
+
  PROGRAMMES 
+
 
 Stage 3 finalist - CFA Institute AI Investment Challenge (UK-wide) · Apr 2026
   Capital Group HQ · London
@@ -84,7 +93,9 @@ J.P. Morgan Global Markets Spring Insight Programme · London · Apr 2025
 
 McKinsey.org Forward Programme · Dec 2025
 
+
  STACK 
+
 
 Languages      Python · Go · TypeScript · SQL · PySpark · Bash · C++
 Infrastructure Microsoft Fabric · Delta Lake · AWS S3 · AWS Transcribe · Docker
@@ -93,10 +104,13 @@ ML / AI        ElasticNet · XGBoost · GARCH · CAPM · RL (PPO/SAC · HMM)
                Anthropic API · OpenAI API
 Security       Burp Suite · Wireshark · CTF · Threat Modelling
 
+
  AVAILABILITY 
+
 
 Open to paid Summer 2026 internships in the UK
 UK Student visa · no sponsorship required
+
 
 
 ---
@@ -109,7 +123,9 @@ UK Student visa · no sponsorship required
 
 ---
 
+
 ## 💻 Tech Stack
+
 
 **Languages**
 
@@ -168,7 +184,9 @@ UK Student visa · no sponsorship required
 
 ---
 
+
 ## 📊 GitHub Stats
+
 
 ![](https://github-readme-stats.shion.dev/api?username=maksimkitikov&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)
 
@@ -178,17 +196,22 @@ UK Student visa · no sponsorship required
 
 ---
 
+
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=maksimkitikov&theme=highcontrast&no-frame=false&no-bg=false&margin-w=4)
 
+
 ---
+
 
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+
 ---
+
 
 ### 🔝 Top Contributed Repos
 
