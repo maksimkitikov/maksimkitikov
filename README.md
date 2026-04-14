@@ -1,6 +1,3 @@
-# 💫 About Me
-
-```
 2nd-year BSc Finance & Data Science @ University of Exeter
 Data & ML Engineer @ Upside Analytics (New York — remote)
 Founder & President @ QuantFin Society (500+ members · quantfin.dev)
@@ -97,7 +94,7 @@ Open to paid Summer 2026 internships and contracts
 London preferred · remote open
 Available full-time from June 2026 (university exams end May)
 UK Student visa · no sponsorship required
-```
+
 
 ---
 
