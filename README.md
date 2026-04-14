@@ -1,10 +1,9 @@
 2nd-year BSc Finance & Data Science @ University of Exeter
-Data & ML Engineer @ Upside Analytics (New York — remote)
+Data & ML Engineer @ Upside Analytics (New York - remote)
 Founder & President @ QuantFin Society (500+ members · [quantfin.dev](https://quantfin.dev))
 
 [github.com/maksimkitikov](https://github.com/maksimkitikov) · [quantfin.dev](https://quantfin.dev) · [linkedin.com/in/maksim-kitikov](https://linkedin.com/in/maksim-kitikov) · mk859@exeter.ac.uk
 
-```
 
 ━━ PRODUCTION WORK @ UPSIDE ANALYTICS ━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -96,7 +95,7 @@ Open to paid Summer 2026 internships and contracts
 London preferred · remote open
 Available full-time from June 2026 (university exams end May)
 UK Student visa · no sponsorship required
-```
+
 
 ---
 
