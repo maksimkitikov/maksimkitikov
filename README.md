@@ -173,7 +173,7 @@ UK Student visa · no sponsorship required
 ---
 
 ## 📈 Language Proficiency
-
+''''
 Python       ████████████████████  Expert     production ML · ETL · data pipelines
 SQL          ████████████████░░░░  Advanced   Delta Lake · complex queries · ORM
 Go           ████████████░░░░░░░░  Advanced   AI agents · payment systems
@@ -183,7 +183,7 @@ JavaScript   ██████████░░░░░░░░░░  Advan
 C++          ████████░░░░░░░░░░░░  Proficient
 R            ███████░░░░░░░░░░░░░  Proficient university · econometrics
 HTML         ██████░░░░░░░░░░░░░░  Working
-
+''''
 
 ---
 
