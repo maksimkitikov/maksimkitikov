@@ -12,7 +12,8 @@ HSW Hackathon Solo Winner
 [github.com/maksimkitikov](https://github.com/maksimkitikov) · [quantfin.dev](https://quantfin.dev) · [linkedin.com/in/maksim-kitikov](https://linkedin.com/in/maksim-kitikov) · mk859@exeter.ac.uk
 
 
-━━ PRODUCTION WORK @ UPSIDE ANALYTICS ━━━━━━━━━━━━━━━━━━━━━━━━━
+ PRODUCTION WORK @ UPSIDE ANALYTICS 
+
 
 ML price forecasting system
   Scope:  400+ US metro areas · 30+ data sources · 100,000+ records
@@ -37,46 +38,52 @@ AI call transcription and analysis system
   Result: ~90% of calls identified as booking requests · actively replacing
           human operators with AI booking agent
 
-Internal IT automation — AI-powered Telegram bot
+Internal IT automation - AI-powered Telegram bot
   Scope:  workflow automation for Upside Analytics remote team
   Stack:  Python · Anthropic API · Google Sheets API
   Result: work hours logging · expense flows · receipt uploads
           admin panel · automated reminders
 
-━━ FOUNDED & RUNNING IN PRODUCTION ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-quantfin.dev — AI-native market analytics platform (live)
+ FOUNDED & RUNNING IN PRODUCTION 
+
+
+[quantfin.dev](https://quantfin.dev) - AI-native market analytics platform (live)
   Stack:  Python · TypeScript · CAPM · GARCH · AR/CAR · OpenAI API
   Scale:  500+ members · 40-person team across 4 divisions:
           Innovation & Emerging Tech · Quant Trading · Data & Modelling · Research
   Status: Selected for Exeter Spring Pre-Incubator Programme
 
-WorldQuant BRAIN × QuantFin Society — official institutional collaboration
-  Initiated and organised partnership with WorldQuant —
+WorldQuant BRAIN × QuantFin Society - official institutional collaboration
+  Initiated and organised partnership with WorldQuant -
   a global quantitative hedge fund
   Secured Denis Drobinin (WorldQuant) as guest speaker
-  First official QuantFin Society event — Bateman Lecture Theatre, University of Exeter
+  First official QuantFin Society event - Bateman Lecture Theatre, University of Exeter
   Session covered: WorldQuant BRAIN platform · Consulting Programme
                    Quant Finance Modelling Competition
                    pathways into professional quantitative finance research
 
-━━ COMPETITIONS ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Hack South West — AI agent payment system · Feb 2026
+ COMPETITIONS 
+
+
+Hack South West - AI agent payment system · Feb 2026
   Checkout.com prize · built with Anthropic API
   Security: read/write tool separation · least-privilege access controls
             spend limits · velocity limits · immutable audit logging
   Stack:  Python · Go · Anthropic API · Checkout.com
 
 Prize place — South West Cyber Security Hackathon · Nov 2025
-  Checkout.com prize · solo — beating teams of up to 4 · 12 hours continuous
+  Checkout.com prize · solo - beating teams of up to 4 · 12 hours continuous
   CTF (Capture The Flag): web exploitation · API security · cryptography
                            forensics · threat modelling
   Tools: Python · JavaScript · Bash · SQL · Docker · Linux · Wireshark · Burp Suite
 
-━━ PROGRAMMES ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Stage 3 finalist — CFA Institute AI Investment Challenge (UK-wide) · Apr 2026
+ PROGRAMMES 
+
+
+Stage 3 finalist - CFA Institute AI Investment Challenge (UK-wide) · Apr 2026
   Capital Group HQ · London
   Built:       RL trade execution engine (PPO/SAC + HMM regime detection)
   Benchmarked: Almgren-Chriss · TWAP · VWAP
@@ -87,7 +94,9 @@ J.P. Morgan Global Markets Spring Insight Programme · London · Apr 2025
 
 McKinsey.org Forward Programme · Dec 2025
 
-━━ STACK ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ STACK 
+
 
 Languages      Python · Go · TypeScript · SQL · PySpark · Bash · C++
 Infrastructure Microsoft Fabric · Delta Lake · AWS S3 · AWS Transcribe · Docker
@@ -96,11 +105,11 @@ ML / AI        ElasticNet · XGBoost · GARCH · CAPM · RL (PPO/SAC · HMM)
                Anthropic API · OpenAI API
 Security       Burp Suite · Wireshark · CTF · Threat Modelling
 
-━━ AVAILABILITY ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Open to paid Summer 2026 internships and contracts
-London preferred · remote open
-Available full-time from June 2026 (university exams end May)
+ AVAILABILITY 
+
+
+Open to paid Summer 2026 internships in the UK
 UK Student visa · no sponsorship required
 
 
