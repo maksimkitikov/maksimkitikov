@@ -12,9 +12,7 @@ HSW Hackathon Solo Winner
 [github.com/maksimkitikov](https://github.com/maksimkitikov) · [quantfin.dev](https://quantfin.dev) · [linkedin.com/in/maksim-kitikov](https://linkedin.com/in/maksim-kitikov) · mk859@exeter.ac.uk
 
 
-
- PRODUCTION WORK @ UPSIDE ANALYTICS 
-
+━━ PRODUCTION WORK @ UPSIDE ANALYTICS ━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ML price forecasting system
   Scope:  400+ US metro areas · 30+ data sources · 100,000+ records
@@ -39,52 +37,46 @@ AI call transcription and analysis system
   Result: ~90% of calls identified as booking requests · actively replacing
           human operators with AI booking agent
 
-Internal IT automation - AI-powered Telegram bot
+Internal IT automation — AI-powered Telegram bot
   Scope:  workflow automation for Upside Analytics remote team
   Stack:  Python · Anthropic API · Google Sheets API
   Result: work hours logging · expense flows · receipt uploads
           admin panel · automated reminders
 
+━━ FOUNDED & RUNNING IN PRODUCTION ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
- FOUNDED & RUNNING IN PRODUCTION 
-
-
-[quantfin.dev](https://quantfin.dev) - AI-native market analytics platform (live)
+quantfin.dev — AI-native market analytics platform (live)
   Stack:  Python · TypeScript · CAPM · GARCH · AR/CAR · OpenAI API
   Scale:  500+ members · 40-person team across 4 divisions:
           Innovation & Emerging Tech · Quant Trading · Data & Modelling · Research
   Status: Selected for Exeter Spring Pre-Incubator Programme
 
-WorldQuant BRAIN × QuantFin Society - official institutional collaboration
-  Initiated and organised partnership with WorldQuant -
+WorldQuant BRAIN × QuantFin Society — official institutional collaboration
+  Initiated and organised partnership with WorldQuant —
   a global quantitative hedge fund
   Secured Denis Drobinin (WorldQuant) as guest speaker
-  First official QuantFin Society event - Bateman Lecture Theatre, University of Exeter
+  First official QuantFin Society event — Bateman Lecture Theatre, University of Exeter
   Session covered: WorldQuant BRAIN platform · Consulting Programme
                    Quant Finance Modelling Competition
                    pathways into professional quantitative finance research
 
+━━ COMPETITIONS ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
- COMPETITIONS 
-
-
-Hack South West - AI agent payment system · Feb 2026
+Hack South West — AI agent payment system · Feb 2026
   Checkout.com prize · built with Anthropic API
   Security: read/write tool separation · least-privilege access controls
             spend limits · velocity limits · immutable audit logging
   Stack:  Python · Go · Anthropic API · Checkout.com
 
 Prize place — South West Cyber Security Hackathon · Nov 2025
-  Checkout.com prize · solo - beating teams of up to 4 · 12 hours continuous
+  Checkout.com prize · solo — beating teams of up to 4 · 12 hours continuous
   CTF (Capture The Flag): web exploitation · API security · cryptography
                            forensics · threat modelling
   Tools: Python · JavaScript · Bash · SQL · Docker · Linux · Wireshark · Burp Suite
 
+━━ PROGRAMMES ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
- PROGRAMMES 
-
-
-Stage 3 finalist - CFA Institute AI Investment Challenge (UK-wide) · Apr 2026
+Stage 3 finalist — CFA Institute AI Investment Challenge (UK-wide) · Apr 2026
   Capital Group HQ · London
   Built:       RL trade execution engine (PPO/SAC + HMM regime detection)
   Benchmarked: Almgren-Chriss · TWAP · VWAP
@@ -95,9 +87,7 @@ J.P. Morgan Global Markets Spring Insight Programme · London · Apr 2025
 
 McKinsey.org Forward Programme · Dec 2025
 
-
- STACK 
-
+━━ STACK ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 Languages      Python · Go · TypeScript · SQL · PySpark · Bash · C++
 Infrastructure Microsoft Fabric · Delta Lake · AWS S3 · AWS Transcribe · Docker
@@ -106,13 +96,12 @@ ML / AI        ElasticNet · XGBoost · GARCH · CAPM · RL (PPO/SAC · HMM)
                Anthropic API · OpenAI API
 Security       Burp Suite · Wireshark · CTF · Threat Modelling
 
+━━ AVAILABILITY ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
- AVAILABILITY 
-
-
-Open to paid Summer 2026 internships in the UK
+Open to paid Summer 2026 internships and contracts
+London preferred · remote open
+Available full-time from June 2026 (university exams end May)
 UK Student visa · no sponsorship required
-
 
 
 ---
@@ -125,9 +114,7 @@ UK Student visa · no sponsorship required
 
 ---
 
-
 ## 💻 Tech Stack
-
 
 **Languages**
 
@@ -154,7 +141,6 @@ UK Student visa · no sponsorship required
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)
 
@@ -186,11 +172,34 @@ UK Student visa · no sponsorship required
 
 ---
 
+## 📈 Language Proficiency
+
+```
+Python       ████████████████████  Expert     production ML · ETL · data pipelines
+SQL          ████████████████░░░░  Advanced   Delta Lake · complex queries · ORM
+Go           ████████████░░░░░░░░  Advanced   AI agents · payment systems
+TypeScript   ████████████░░░░░░░░  Advanced   quantfin.dev platform
+Bash         ███████████░░░░░░░░░  Advanced   scripting · Linux · CTF
+JavaScript   ██████████░░░░░░░░░░  Advanced   frontend · automation
+C++          ████████░░░░░░░░░░░░  Proficient
+R            ███████░░░░░░░░░░░░░  Proficient university · econometrics
+HTML         ██████░░░░░░░░░░░░░░  Working
+
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [quantfin](https://github.com/maksimkitikov/quantfin) | AI-native market analytics platform — live at quantfin.dev | Python · TypeScript · GARCH · CAPM · OpenAI |
+| [bot_up](https://github.com/maksimkitikov/bot_up) | AI-powered Telegram bot for internal team automation | Python · Anthropic API · Google Sheets |
+| [ATS](https://github.com/maksimkitikov/ATS) | Automated tracking system | Python |
+| [uk-intern-hunter](https://github.com/maksimkitikov/uk-intern-hunter) | UK internship opportunity tracker | Python |
+
+---
 
 ## 📊 GitHub Stats
-
-
-![](https://github-readme-stats.shion.dev/api?username=maksimkitikov&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)
 
 ![](https://streak-stats.demolab.com/?user=maksimkitikov&theme=highcontrast&hide_border=false)
 
@@ -198,26 +207,15 @@ UK Student visa · no sponsorship required
 
 ---
 
-
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=maksimkitikov&theme=highcontrast&no-frame=false&no-bg=false&margin-w=4)
 
-
 ---
-
 
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
----
-
-
-### 🔝 Top Contributed Repos
-
-![](https://github-contributor-stats.vercel.app/api?username=maksimkitikov&limit=5&theme=highcontrast&combine_all_yearly_contributions=true)
 
 ---
 
