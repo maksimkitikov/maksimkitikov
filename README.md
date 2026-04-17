@@ -73,7 +73,7 @@ Hack South West - AI agent payment system · Feb 2026
             spend limits · velocity limits · immutable audit logging
   Stack:  Python · Go · Anthropic API · Checkout.com
 
-Prize place — South West Cyber Security Hackathon · Nov 2025
+Prize place - South West Cyber Security Hackathon · Nov 2025
   Checkout.com prize · solo - beating teams of up to 4 · 12 hours continuous
   CTF (Capture The Flag): web exploitation · API security · cryptography
                            forensics · threat modelling
