@@ -92,7 +92,7 @@ Stage 3 finalist - CFA Institute AI Investment Challenge (UK-wide) · Apr 2026
 J.P. Morgan Global Markets Spring Insight Programme · London · Apr 2025
   Derivatives-based hedging strategy · quantitative analysis · risk management
 
-McKinsey.org Forward Programme · Dec 2025
+ McKinsey.org Forward Programme · Dec 2025
 
 
   # STACK 
@@ -110,6 +110,7 @@ Security       Burp Suite · Wireshark · CTF · Threat Modelling
 
 
 Open to paid Summer 2026 internships in the UK
+
 UK Student visa · no sponsorship required
 
 
