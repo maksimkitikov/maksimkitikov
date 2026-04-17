@@ -2,6 +2,8 @@ Data & ML Engineer @ Upside Analytics (New York - remote);
 
 Founder & President @ QuantFin Society (500+ members · [quantfin.dev](https://quantfin.dev));
 
+Spring Insight @J.P. Morgan;
+
 BSc Finance & Data Science @ University of Exeter;
 
 HSW Hackathon Solo Winner
