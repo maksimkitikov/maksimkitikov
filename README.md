@@ -108,8 +108,6 @@ ML / Data Science: NumPy · Pandas · scikit-learn · PyTorch · Plotly · Matpl
 
 Databases: PostgreSQL · MySQL · Microsoft SQL Server · SQLite
 
-Tools: Power BI · Postman · Notion · GitHub · Git · Jira
-
 
   # AVAILABILITY 
 
