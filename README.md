@@ -98,12 +98,17 @@ J.P. Morgan Global Markets Spring Insight Programme · London · Apr 2025
   # STACK 
 
 
-Languages      Python · Go · TypeScript · SQL · PySpark · Bash · C++
-Infrastructure Microsoft Fabric · Delta Lake · AWS S3 · AWS Transcribe · Docker
-               GitHub Actions · FastAPI
-ML / AI        ElasticNet · XGBoost · GARCH · CAPM · RL (PPO/SAC · HMM)
-               Anthropic API · OpenAI API
-Security       Burp Suite · Wireshark · CTF · Threat Modelling
+Languages: Python · Go · TypeScript · JavaScript · C++ · R · Bash · HTML5
+
+Infrastructure & Cloud: AWS · Azure · Docker · GitHub Actions · Cloudflare
+
+Frameworks & Libraries: FastAPI · Flask · Apache Spark · Anaconda · Nginx · Gunicorn
+
+ML / Data Science: NumPy · Pandas · scikit-learn · PyTorch · Plotly · Matplotlib · MLflow
+
+Databases: PostgreSQL · MySQL · Microsoft SQL Server · SQLite
+
+Tools: Power BI · Postman · Notion · GitHub · Git · Jira
 
 
   # AVAILABILITY 
