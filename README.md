@@ -111,8 +111,6 @@ Security       Burp Suite · Wireshark · CTF · Threat Modelling
 
 Open to paid Summer 2026 internships in the UK
 
-UK Student visa · no sponsorship required
-
 
 ---
 
