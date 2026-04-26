@@ -1,4 +1,4 @@
-Data & ML Engineer @ Upside Analytics (New York — remote)
+Data & ML Engineer @ Upside Analytics (New York - remote)
 
 Founder & President @ QuantFin Society (500+ members · [quantfin.dev](https://quantfin.dev))
 
@@ -54,13 +54,13 @@ Internal automation bot
 
 ━━ FOUNDED & RUNNING IN PRODUCTION ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-quantfin.dev — AI-native market analytics platform (live)
+quantfin.dev - AI-native market analytics platform (live)
   Stack:  Python · TypeScript · CAPM · GARCH · AR/CAR · OpenAI API
   Scale:  500+ members · 40-person team across 4 divisions:
           Innovation & Emerging Tech · Quant Trading · Data & Modelling · Research
   Status: Selected for Exeter Spring Pre-Incubator Programme
 
-WorldQuant BRAIN × QuantFin Society — official institutional collaboration
+WorldQuant BRAIN × QuantFin Society - official institutional collaboration
   Spearheaded official collaboration with WorldQuant (global quant hedge fund)
   Organised flagship society event with WorldQuant's Head of Strategy & Operations
   Session covered: BRAIN quantitative research platform · pathways in quant finance
@@ -68,20 +68,20 @@ WorldQuant BRAIN × QuantFin Society — official institutional collaboration
 
 ━━ COMPETITIONS ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Hack South West — AI agent payment system · Feb 2026
+Hack South West - AI agent payment system · Feb 2026
   Checkout.com prize · built with Anthropic API + OpenAI API
   Security: read/write tool separation · least-privilege access controls
             spend limits · velocity limits · immutable audit logging
   Stack:  Python · Go · Anthropic API · OpenAI API
 
-Solo Hackathon Winner — South West Cyber Security Hackathon · Nov 2025
-  Checkout.com prize · solo — beating teams of up to 4 · 12 hours continuous
+Solo Hackathon Winner - South West Cyber Security Hackathon · Nov 2025
+  Checkout.com prize · solo - beating teams of up to 4 · 12 hours continuous
   CTF: web exploitation · API security · cryptography · forensics · threat modelling
   Tools: Python · JavaScript · Bash · SQL · Docker · Linux · Wireshark · Burp Suite
 
 ━━ PROGRAMMES ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Stage 3 finalist — CFA Institute AI Investment Challenge (UK-wide) · Apr 2026
+Stage 3 finalist - CFA Institute AI Investment Challenge (UK-wide) · Apr 2026
   Capital Group HQ · London · Team Lead
   Co-architected: RL trade execution engine (PPO/SAC + HMM regime detection)
   Benchmarked:    Almgren-Chriss · TWAP · VWAP
@@ -206,9 +206,9 @@ HTML         ██████░░░░░░░░░░░░░░  Worki
 
 | Project | Description | Stack |
 |---|---|---|
-| [quantfin](https://github.com/maksimkitikov/quantfin) | AI-native market analytics platform — live at quantfin.dev | Python · TypeScript · GARCH · CAPM · OpenAI |
+| [quantfin](https://github.com/maksimkitikov/quantfin) | AI-native market analytics platform - live at quantfin.dev | Python · TypeScript · GARCH · CAPM · OpenAI |
 | [bot_up](https://github.com/maksimkitikov/bot_up) | AI-powered Telegram bot for internal team automation | Python · Anthropic API · Google Sheets |
-| [ATS](https://github.com/maksimkitikov/ATS) | AI-powered Applicant Tracking System — LLM scoring on 100-point rubric, semantic-layer chat, pgvector search | Python · Anthropic API · Supabase · pgvector · Streamlit |
+| [ATS](https://github.com/maksimkitikov/ATS) | AI-powered Applicant Tracking System - LLM scoring on 100-point rubric, semantic-layer chat, pgvector search | Python · Anthropic API · Supabase · pgvector · Streamlit |
 | [uk-intern-hunter](https://github.com/maksimkitikov/uk-intern-hunter) | UK internship opportunity tracker | Python |
 
 ---
