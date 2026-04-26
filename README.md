@@ -1,119 +1,122 @@
-Data & ML Engineer @ Upside Analytics (New York - remote);
+Data & ML Engineer @ Upside Analytics (New York — remote)
 
-Founder & President @ QuantFin Society (500+ members · [quantfin.dev](https://quantfin.dev));
+Founder & President @ QuantFin Society (500+ members · [quantfin.dev](https://quantfin.dev))
 
-Spring Insight @J.P. Morgan;
+Spring Insight @ J.P. Morgan 
 
-BSc Finance & Data Science @ University of Exeter;
+BSc Finance & Data Science @ University of Exeter 
 
-HSW Hackathon Solo Winner
-
+HSW Solo CTF Winner
 
 [github.com/maksimkitikov](https://github.com/maksimkitikov) · [quantfin.dev](https://quantfin.dev) · [linkedin.com/in/maksim-kitikov](https://linkedin.com/in/maksim-kitikov) · mk859@exeter.ac.uk
 
 
-  # PRODUCTION WORK @ UPSIDE ANALYTICS 
-
+━━ PRODUCTION WORK @ UPSIDE ANALYTICS ━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ML price forecasting system
-  Scope:  400+ US metro areas · 30+ data sources · 100,000+ records
+  Scope:  423 US MSAs · 30+ data sources · 100,000+ records
   Stack:  ElasticNet + time-series · Microsoft Fabric · PySpark · Delta Lake
   Result: +15% out-of-sample accuracy → unlocked 3 new real estate underwriting deals
 
+AI recruitment platform (ATS)
+  Scope:  end-to-end candidate evaluation pipeline
+  Stack:  Python · Supabase · pgvector · Anthropic Claude API · Streamlit
+  Result: LLM scoring on 100-point rubric · semantic-layer chat (no raw SQL)
+          all-MiniLM-L6-v2 embeddings · automated candidate pipeline from HH.ru
+
 Automated ETL infrastructure
-  Scope:  30+ macroeconomic indicators ingested and transformed daily
+  Scope:  30+ macroeconomic indicators · 423 markets · 120,000+ records
   Stack:  PySpark · Delta MERGE + OPTIMIZE · Microsoft Fabric
-  Result: eliminated 18+ hours/month of manual processing
+  Result: schema enforcement · anomaly detection · variance logging
+          eliminated 18+ hours/month of manual processing
 
-Production data validation system
-  Scope:  120,000+ records monitored across REST APIs and CSV sources
-  Stack:  Dash · Flask · PostgreSQL · 6 REST APIs
-  Result: schema enforcement · anomaly detection · variance logging in production
+Marketing analytics pipeline
+  Scope:  Google Ads · Meta Ads · GA4 → Delta Lake
+  Stack:  Microsoft Fabric · PySpark · dynamic date-range detection
+  Result: automated daily attribution reporting
 
-Google Ads · Meta Ads · GA4 → Delta tables · automated daily ingestion via Microsoft Fabric
+Full-stack analytics platform
+  Scope:  6 live REST APIs · 423 US markets
+  Stack:  Dash · Plotly · Flask · SQLAlchemy · PostgreSQL
+  Result: interactive geospatial visualisation · committee-ready reporting
 
 AI call transcription and analysis system
   Scope:  inbound call recordings → AWS Transcribe → LLM analysis pipeline
   Stack:  Python · AWS S3 · AWS Transcribe · Anthropic API
-  Result: ~90% of calls identified as booking requests · actively replacing
-          human operators with AI booking agent
+  Result: ~90% of calls identified as booking requests
+          AI booking agent replacing manual operator workflows
 
-Internal IT automation - AI-powered Telegram bot
+Internal automation bot
   Scope:  workflow automation for Upside Analytics remote team
-  Stack:  Python · Anthropic API · Google Sheets API
-  Result: work hours logging · expense flows · receipt uploads
-          admin panel · automated reminders
+  Stack:  Python · Anthropic API · Google Sheets API · Google Drive API
+  Result: time tracking · overtime · leave · expense flows
+          receipt uploads · admin panel · automated reminders
 
+━━ FOUNDED & RUNNING IN PRODUCTION ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-  # FOUNDED & RUNNING IN PRODUCTION 
-
-
-[quantfin.dev](https://quantfin.dev) - AI-native market analytics platform (live)
+quantfin.dev — AI-native market analytics platform (live)
   Stack:  Python · TypeScript · CAPM · GARCH · AR/CAR · OpenAI API
   Scale:  500+ members · 40-person team across 4 divisions:
           Innovation & Emerging Tech · Quant Trading · Data & Modelling · Research
   Status: Selected for Exeter Spring Pre-Incubator Programme
 
-WorldQuant BRAIN × QuantFin Society - official institutional collaboration
-  Initiated and organised partnership with WorldQuant -
-  a global quantitative hedge fund
-  Secured Denis Drobinin (WorldQuant) as guest speaker
-  First official QuantFin Society event - Bateman Lecture Theatre, University of Exeter
-  Session covered: WorldQuant BRAIN platform · Consulting Programme
-                   Quant Finance Modelling Competition
-                   pathways into professional quantitative finance research
+WorldQuant BRAIN × QuantFin Society — official institutional collaboration
+  Spearheaded official collaboration with WorldQuant (global quant hedge fund)
+  Organised flagship society event with WorldQuant's Head of Strategy & Operations
+  Session covered: BRAIN quantitative research platform · pathways in quant finance
+  Society trading team achieved 8.37% simulated return on WorldQuant BRAIN
 
+━━ COMPETITIONS ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-  # COMPETITIONS 
-
-
-Hack South West - AI agent payment system · Feb 2026
-  Checkout.com prize · built with Anthropic API
+Hack South West — AI agent payment system · Feb 2026
+  Checkout.com prize · built with Anthropic API + OpenAI API
   Security: read/write tool separation · least-privilege access controls
             spend limits · velocity limits · immutable audit logging
-  Stack:  Python · Go · Anthropic API · Checkout.com
+  Stack:  Python · Go · Anthropic API · OpenAI API
 
-Prize place - South West Cyber Security Hackathon · Nov 2025
-  Checkout.com prize · solo - beating teams of up to 4 · 12 hours continuous
-  CTF (Capture The Flag): web exploitation · API security · cryptography
-                           forensics · threat modelling
+Solo Hackathon Winner — South West Cyber Security Hackathon · Nov 2025
+  Checkout.com prize · solo — beating teams of up to 4 · 12 hours continuous
+  CTF: web exploitation · API security · cryptography · forensics · threat modelling
   Tools: Python · JavaScript · Bash · SQL · Docker · Linux · Wireshark · Burp Suite
 
+━━ PROGRAMMES ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-  # PROGRAMMES 
-
-
-Stage 3 finalist - CFA Institute AI Investment Challenge (UK-wide) · Apr 2026
-  Capital Group HQ · London
-  Built:       RL trade execution engine (PPO/SAC + HMM regime detection)
-  Benchmarked: Almgren-Chriss · TWAP · VWAP
+Stage 3 finalist — CFA Institute AI Investment Challenge (UK-wide) · Apr 2026
+  Capital Group HQ · London · Team Lead
+  Co-architected: RL trade execution engine (PPO/SAC + HMM regime detection)
+  Benchmarked:    Almgren-Chriss · TWAP · VWAP
   MiFID II best-execution explainability layer via Claude API
 
 J.P. Morgan Global Markets Spring Insight Programme · London · Apr 2025
-  Derivatives-based hedging strategy · quantitative analysis · risk management
+  Derivatives-based hedging strategy · options/forwards · risk exposure analysis
+  Python + Excel · presented to senior professionals
 
- McKinsey.org Forward Programme · Dec 2025
+McKinsey.org Forward Programme · Dec 2025
 
+━━ STACK ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-  # STACK 
+Languages      Python · SQL · TypeScript · JavaScript · Go · Bash · C++ · R · HTML/CSS
+Infrastructure Microsoft Fabric · Delta Lake · AWS (S3 · Transcribe · Q Business)
+               Azure · GCP · Docker · PostgreSQL (Supabase · pgvector)
+               Linux · REST APIs · CI/CD (GitHub Actions) · Git · Cloudflare
+Frameworks     pandas · NumPy · scikit-learn · XGBoost · PyTorch · MLflow · PySpark
+               Matplotlib · Seaborn · Plotly · Dash · Streamlit · Flask · FastAPI
+               SQLAlchemy · Pydantic · httpx · Jupyter · Anaconda · Nginx · Gunicorn
+ML / AI        End-to-End ML Pipeline Design · MLOps · Model Deployment
+               Time-Series & Demand Forecasting · Feature Engineering
+               Generative AI (LLM Integration · RAG · Embeddings · Semantic Search
+               Prompt Engineering · NLP) · Deep Learning (PyTorch)
+               Supervised/Unsupervised/Reinforcement Learning (PPO/SAC · HMM)
+               ElasticNet · Anomaly Detection · Statistical Analysis
+Quant Finance  CAPM · GARCH · AR/CAR · Almgren-Chriss · TWAP · VWAP · Event Studies
+Databases      PostgreSQL · MySQL · Microsoft SQL Server · SQLite
+Tools          Power BI · Postman · Notion · Jira · GitHub · Git
+Security       Web App Vulnerability Testing · API Security · OAuth2
+               CTF · Burp Suite · Wireshark · Threat Modelling
 
-
-Languages: Python · Go · TypeScript · JavaScript · C++ · R · Bash · HTML5
-
-Infrastructure & Cloud: AWS · Azure · Docker · GitHub Actions · Cloudflare
-
-Frameworks & Libraries: FastAPI · Flask · Apache Spark · Anaconda · Nginx · Gunicorn
-
-ML / Data Science: NumPy · Pandas · scikit-learn · PyTorch · Plotly · Matplotlib · MLflow
-
-Databases: PostgreSQL · MySQL · Microsoft SQL Server · SQLite
-
-
-  # AVAILABILITY 
-
+━━ AVAILABILITY ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 Open to paid Summer 2026 internships in the UK
-
 
 ---
 
@@ -185,7 +188,7 @@ Open to paid Summer 2026 internships in the UK
 
 ## 📈 Language Proficiency
 
-```
+
 Python       ████████████████████  Expert     production ML · ETL · data pipelines
 SQL          ████████████████░░░░  Advanced   Delta Lake · complex queries · ORM
 Go           ████████████░░░░░░░░  Advanced   AI agents · payment systems
@@ -195,7 +198,8 @@ JavaScript   ██████████░░░░░░░░░░  Advan
 C++          ████████░░░░░░░░░░░░  Proficient
 R            ███████░░░░░░░░░░░░░  Proficient university · econometrics
 HTML         ██████░░░░░░░░░░░░░░  Working
-```
+
+
 ---
 
 ## 🚀 Featured Projects
@@ -204,7 +208,7 @@ HTML         ██████░░░░░░░░░░░░░░  Worki
 |---|---|---|
 | [quantfin](https://github.com/maksimkitikov/quantfin) | AI-native market analytics platform — live at quantfin.dev | Python · TypeScript · GARCH · CAPM · OpenAI |
 | [bot_up](https://github.com/maksimkitikov/bot_up) | AI-powered Telegram bot for internal team automation | Python · Anthropic API · Google Sheets |
-| [ATS](https://github.com/maksimkitikov/ATS) | Automated tracking system | Python |
+| [ATS](https://github.com/maksimkitikov/ATS) | AI-powered Applicant Tracking System — LLM scoring on 100-point rubric, semantic-layer chat, pgvector search | Python · Anthropic API · Supabase · pgvector · Streamlit |
 | [uk-intern-hunter](https://github.com/maksimkitikov/uk-intern-hunter) | UK internship opportunity tracker | Python |
 
 ---
