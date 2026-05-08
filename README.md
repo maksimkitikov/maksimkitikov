@@ -2,16 +2,20 @@ Data & ML Engineer @ Upside Analytics (New York - remote)
 
 Founder & President @ QuantFin Society (500+ members · [quantfin.dev](https://quantfin.dev))
 
+Placed 2nd in the National CFA AI Investment Challenge
+
+HSW Hackathon Solo CTF Winner
+
 Spring Insight @ J.P. Morgan 
 
 BSc Finance & Data Science @ University of Exeter 
 
-HSW Solo CTF Winner
-
 [github.com/maksimkitikov](https://github.com/maksimkitikov) · [quantfin.dev](https://quantfin.dev) · [linkedin.com/in/maksim-kitikov](https://linkedin.com/in/maksim-kitikov) · mk859@exeter.ac.uk
 
 
-━━ PRODUCTION WORK @ UPSIDE ANALYTICS ━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  PRODUCTION WORK @ UPSIDE ANALYTICS 
+  
 
 ML price forecasting system
   Scope:  423 US MSAs · 30+ data sources · 100,000+ records
@@ -51,8 +55,12 @@ Internal automation bot
   Stack:  Python · Anthropic API · Google Sheets API · Google Drive API
   Result: time tracking · overtime · leave · expense flows
           receipt uploads · admin panel · automated reminders
+          
 
-━━ FOUNDED & RUNNING IN PRODUCTION ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  
+  FOUNDED & RUNNING IN PRODUCTION 
+  
+
 
 quantfin.dev - AI-native market analytics platform (live)
   Stack:  Python · TypeScript · CAPM · GARCH · AR/CAR · OpenAI API
@@ -66,7 +74,11 @@ WorldQuant BRAIN × QuantFin Society - official institutional collaboration
   Session covered: BRAIN quantitative research platform · pathways in quant finance
   Society trading team achieved 8.37% simulated return on WorldQuant BRAIN
 
-━━ COMPETITIONS ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  
+
+   COMPETITIONS 
+
+
 
 Hack South West - AI agent payment system · Feb 2026
   Checkout.com prize · built with Anthropic API + OpenAI API
@@ -79,9 +91,13 @@ Solo Hackathon Winner - South West Cyber Security Hackathon · Nov 2025
   CTF: web exploitation · API security · cryptography · forensics · threat modelling
   Tools: Python · JavaScript · Bash · SQL · Docker · Linux · Wireshark · Burp Suite
 
-━━ PROGRAMMES ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Stage 3 finalist - CFA Institute AI Investment Challenge (UK-wide) · Apr 2026
+
+   PROGRAMMES 
+
+
+
+Placed 2nd in the National AI Investment Challenge · Apr 2026
   Capital Group HQ · London · Team Lead
   Co-architected: RL trade execution engine (PPO/SAC + HMM regime detection)
   Benchmarked:    Almgren-Chriss · TWAP · VWAP
@@ -93,7 +109,11 @@ J.P. Morgan Global Markets Spring Insight Programme · London · Apr 2025
 
 McKinsey.org Forward Programme · Dec 2025
 
-━━ STACK ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+   STACK 
+
+   
 
 Languages      Python · SQL · TypeScript · JavaScript · Go · Bash · C++ · R · HTML/CSS
 Infrastructure Microsoft Fabric · Delta Lake · AWS (S3 · Transcribe · Q Business)
@@ -114,9 +134,15 @@ Tools          Power BI · Postman · Notion · Jira · GitHub · Git
 Security       Web App Vulnerability Testing · API Security · OAuth2
                CTF · Burp Suite · Wireshark · Threat Modelling
 
-━━ AVAILABILITY ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+   AVAILABILITY 
+
+
 
 Open to paid Summer 2026 internships in the UK
+
+
 
 ---
 
