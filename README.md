@@ -1,4 +1,4 @@
-Data & ML Engineer @ Upside Analytics (New York - remote)
+Data & ML Engineer @ Upside Analytics (New York - remote - part-time)
 
 Founder & President @ QuantFin Society (500+ members · [quantfin.dev](https://quantfin.dev))
 
