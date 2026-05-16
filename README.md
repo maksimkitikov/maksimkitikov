@@ -220,7 +220,7 @@ Go           ████████████░░░░░░░░  Advan
 TypeScript   ████████████░░░░░░░░  Advanced   quantfin.dev platform
 Bash         ███████████░░░░░░░░░  Advanced   scripting · Linux · CTF
 JavaScript   ██████████░░░░░░░░░░  Advanced   frontend · automation
-C++          ████████░░░░░░░░░░░░  Proficient
+Rust         ████████░░░░░░░░░░░░  Proficient
 R            ███████░░░░░░░░░░░░░  Proficient university · econometrics
 HTML         ██████░░░░░░░░░░░░░░  Working
 ```
